@@ -1,0 +1,20 @@
+{
+  "name": "fish_thing",
+  "version": "0.0.0",
+  "authors": [
+    "Courtney Nguyen <cnguyen@1800contacts.com>"
+  ],
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "three.js": "https://github.com/mrdoob/three.js.git",
+    "jquery": "~2.1.4"
+  }
+}
